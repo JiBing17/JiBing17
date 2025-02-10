@@ -8,7 +8,13 @@
 ```javascript
 const jibing = {
   source: ["Indianapolis, IN"],
-  code: ["Java", "Python", "C++", "JavaScript", "SQL"],
-  tools: ["React", "Flask", "GitHub", "VS Code"],
+  code: ["Java", "Python", "C++", "JavaScript", "SQL", "R"],
+  tools: ["React", "Flask", "Express.js", "Node.js", "Material-UI", "Bootstrap", "TailwindCSS", "Git"]
 }
+I'm Ji Bing! I am a Computer Scienc Major at Purdue University. My major concentration is focused in Software Engineering!
+
+### **Undergraduate Data Science Researcher @ The Data Mine - Purdue University**  
+### **CS Teaching Assistant @ Purdue University**  
+### **Software Developer @ Purdue VIP**  
+
 
