@@ -1,4 +1,4 @@
-<h2>Hi, I'm Ji Bing Ni! <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Ji Bing Ni! <img src="https://media.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif" width="50"></h2>
 <p><em>Computer Science student at <a target="_blank" href="https://www.purdue.edu/">Purdue University</a> | Aspiring Software Engineer passionate about Software Engineering, Databases, Web Development, and Human Computer Interaction</em></p>
 
 [![Linkedin: Ji Bing Ni](https://img.shields.io/badge/-JiBingNi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jibing-ni/)](https://www.linkedin.com/in/jibing-ni/)
