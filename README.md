@@ -1,64 +1,43 @@
-<h1 align="center">👋 Hi, I'm Ji Bing Ni</h1>
-<p align="center">
-  🚀 <strong>Aspiring Software Engineer</strong> | <strong>Computer Science @ Purdue University</strong><br>
-  💡 Passionate about <strong>Software Engineering, Databases, Web Development, and Human Computer Interaction</strong><br>
-  📌 <a href="https://jibing17.github.io/portfolio/">Portfolio</a> • <a href="https://www.linkedin.com/in/jibing-ni/">LinkedIn</a> • <a href="https://github.com/JiBing17">GitHub</a>
-</p>
+I'm Ji Bing Ni! I am a Computer Science student at <a target="_blank" href="https://www.purdue.edu/">Purdue University</a> and an aspiring Software Engineer passionate about Software Engineering, Databases, Web Development, and Human Computer Interaction.
 
----
+### Undergraduate Data Science Researcher @ The Data Mine - Purdue University  
+**Aug. 2024 – Present | West Lafayette, IN**  
+- Developed an AI-powered chatbot for Wabash, integrating a trained machine learning model to deliver more precise customer responses, reducing reliance on call center agents.  
+- Implemented a user-friendly React interface, improving chatbot efficiency and user experience across 20+ devices.  
+- Created 5+ test cases using Pytest, ensuring chatbot accuracy and robustness through automated testing.  
+- Collaborated in a team of 8, applying Agile practices via Azure DevOps to enhance project efficiency.
 
-## 🚀 About Me
+### Undergraduate CS Teaching Assistant @ Purdue University  
+**Aug. 2024 – Present | West Lafayette, IN**  
+- Led office hours for 1080+ students in Object-Oriented and C Programming, improving comprehension.  
+- Graded 80+ assignments and provided detailed feedback, enhancing students' understanding of course material.  
+- Answered 200+ student questions on Ed Discussion, clarifying Git/GitHub, terminal commands, and LaTeX usage.
 
-I am a **Computer Science student at Purdue University** with hands-on experience in **Software Engineering, AI development, Full-stack Applications, and Web development**. Through research, teaching, and development roles, I have created meaningful software and improved user experiences across various platforms.
+### Computer Science Tutor @ Horizons Student Support Services  
+**Aug. 2024 – Present | West Lafayette, IN**  
+- Conducted 20+ tutoring sessions for Python Programming, significantly boosting students' programming skills.  
+- Led 15+ office hours for Systems and Competitive Programming, breaking down complex concepts into clear explanations to improve student comprehension.
 
-Currently, I am **conducting research for The Data Mine Corporate Partners** while also working as a **CS Teaching Assistant** and **CS Tutor**.
 
----
+### Software Developer @ Purdue Vertically Integrated Projects  
+**Aug. 2024 – Dec. 2024 | West Lafayette, IN**  
+- Developed an intuitive landing page using HTML, CSS, and JavaScript for [ECELabs.io](https://ecelabs.io/), featuring 10+ custom components and ensuring responsiveness across 20+ devices to enhance user engagement and attract new users.  
+- Revamped ECELabs.io homepage with a modern design, improving user experience for 450+ students.  
+- Collaborated in a software team of 5 to hold weekly meetings, maintaining remote access to hardware labs for 450+ students.
 
-## 🔥 Technical Skills
+### Student Software Developer @ Purdue University  
+**Aug. 2024 – Dec. 2024 | West Lafayette, IN**  
+- Collaborated in a 6-member scrum team, delivering a client-server productivity management system that consisted of 70+ user stories.  
+- Engineered a full-stack application using React.js and CSS for the front-end, Flask for the backend, and SQLite for data management, allowing users to access and manage their schedule and tasks effectively.  
+- Facilitated 27+ Scrum meetings—including Sprint Planning, Backlog refinement, Stand-ups, Reviews, and Retrospectives—to improve team efficiency.
 
-**Languages:** Java, Python, C, C++, JavaScript, SQL, R, HTML, CSS, Tailwind CSS  
-**Frameworks & Tools:** React, Flask, Express.js, Node.js, Material-UI, MongoDB, PostgreSQL, SQLite  
-**Developer Tools:** Git, GitHub, Azure DevOps, LaTeX, VS Code, IntelliJ, Eclipse  
-**Libraries:** Pandas, NumPy, Matplotlib, Beautiful Soup, SQLAlchemy  
 
----
 
-## 🏆 Experience
+- **Featured Project: Pokémon Web Application** *(React, Express.js, MongoDB)*  
+  Integrated PokéAPI for real-time Pokémon data, engineered a secure & scalable backend for 1,000+ users, and designed an interactive UI using React, Material-UI, and Tailwind CSS.
 
-### 💡 Undergraduate Data Science Researcher @ The Data Mine - Purdue University  
-**Aug. 2024 – Present**  
-- Developed an **AI-powered chatbot** for Wabash, reducing **call center dependency**  
-- Built a **React UI**, improving chatbot efficiency across **20+ devices**  
-- Designed **automated test cases** using Pytest  
+Connect: <a target="_blank" href="https://jibing17.github.io/portfolio/">Portfolio</a> • <a target="_blank" href="https://www.linkedin.com/in/jibing-ni/">LinkedIn</a> • <a target="_blank" href="https://github.com/JiBing17">GitHub</a>
 
-### 🎓 CS Teaching Assistant @ Purdue University  
-**Aug. 2024 – Present**  
-- Assisted **1,080+ students** in Object-Oriented & C Programming  
-- Provided **code review & feedback** on 80+ assignments  
-- Answered **200+ technical questions** on Git/GitHub, Terminal, and LaTeX  
-
-### 🖥️ Software Developer @ Purdue VIP & Student Developer Teams  
-**Aug. 2024 – Dec. 2024**  
-- Designed and developed a **landing page for ECELabs.io** using HTML, CSS, and JavaScript  
-- Built a **full-stack productivity management system** with React, Flask, and SQLite  
-
----
-
-## 🛠️ Featured Projects
-
-### 🎮 Pokémon Web Application *(React, Express.js, MongoDB)*  
-- Integrated **PokéAPI** for real-time Pokémon data  
-- Engineered a secure & scalable backend for 1,000+ users  
-- Designed an interactive UI with React, Material-UI, and Tailwind CSS  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiBing17&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
