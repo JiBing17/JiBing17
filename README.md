@@ -16,10 +16,11 @@ I'm Ji Bing! I am a Computer Scienc Major at Purdue University. My major concent
 
 ## 🏆 Experience
 
-- :microscope: **Undergraduate Data Science Researcher @ The Data Mine - Purdue University**
-- :man_teacher: **CS Teaching Assistant @ Purdue University** 
-- :computer: **Software Developer @ Purdue VIP** *
-- :mortar_board: **CS Tutor @ Horizons Student Support Services** 
+- :microscope: **Undergraduate Data Science Researcher @ [The Data Mine - Purdue University](https://datamine.purdue.edu/)**
+- :man_teacher: **CS Teaching Assistant @ [Purdue University](https://www.purdue.edu/)**
+- :computer: **Software Developer @ [Purdue VIP](https://www.purdue.edu/VIP/)**
+- :books: **CS Tutor @ [Horizons Student Support Services](https://www.purdue.edu/horizons/)**
+
 
 
 
