@@ -1,9 +1,3 @@
-<!-- Banner Section (Optional) -->
-<div align="center">
-  <!-- Replace the URL below with your own banner image if desired -->
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile" alt="Banner Image" width="100%">
-</div>
-
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Ji Bing Ni</h1>
 <p align="center">
