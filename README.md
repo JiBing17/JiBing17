@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=internetexplorer&logoColor=white&link=https://jibing17.github.io/portfolio/)](https://jibing17.github.io/portfolio/)
 
 ```javascript
-const jibing = {
+const ji_bing = {
   source: ["Indianapolis, IN"],
   code: ["Java", "Python", "C++", "JavaScript", "SQL", "R"],
   tools: ["React", "Flask", "Express.js", "Node.js", "Material-UI", "Bootstrap", "TailwindCSS", "Git"]
