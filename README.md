@@ -2,7 +2,6 @@
 <p><em>Computer Science student at <a target="_blank" href="https://www.purdue.edu/">Purdue University</a> | Aspiring Software Engineer passionate about Software Engineering, Databases, Web Development, and Human Computer Interaction</em></p>
 
 [![Linkedin: Ji Bing Ni](https://img.shields.io/badge/-JiBingNi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jibing-ni/)](https://www.linkedin.com/in/jibing-ni/)
-[![GitHub JiBing17](https://img.shields.io/github/followers/JiBing17?label=follow&style=social)](https://github.com/JiBing17)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=internetexplorer&logoColor=white&link=https://jibing17.github.io/portfolio/)](https://jibing17.github.io/portfolio/)
 
 ```javascript
