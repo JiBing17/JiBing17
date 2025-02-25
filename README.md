@@ -14,7 +14,7 @@ const ji_bing = {
 I'm Ji Bing! I am a Computer Scienc Major at Purdue University. My major concentration is focused in Software Engineering!
 
 ## 🏆 Experience
-
+- :computer: **Software Development Research Assistant @ [AIM](https://ai4musicians.org/vip_info.html)**
 - :microscope: **Undergraduate Data Science Researcher @ [The Data Mine - Purdue University](https://datamine.purdue.edu/)**
 - :man_teacher: **CS Teaching Assistant @ [Purdue University](https://www.purdue.edu/)**
 - :computer: **Software Developer @ [Purdue VIP](https://www.purdue.edu/VIP/)**
