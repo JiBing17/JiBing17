@@ -8,17 +8,23 @@
 const ji_bing = {
   source: ["Indianapolis, IN"],
   code: ["Java", "Python", "C++", "JavaScript", "SQL", "R"],
-  tools: ["React", "Flask", "Express.js", "Node.js", "Material-UI", "Bootstrap", "TailwindCSS", "Git"]
+  tools: ["ReactJS", "React Native", "Flask", "Express.js", "Node.js", "Material-UI", "Bootstrap", "TailwindCSS", "Git"]
 }
 ```
 I'm Ji Bing! I am a Computer Scienc Major at Purdue University. My major concentration is focused in Software Engineering!
 
 ## 🏆 Experience
-- :computer: **Software Development Research Assistant @ [AIM](https://ai4musicians.org/vip_info.html)**
-- :microscope: **Undergraduate Data Science Researcher @ [The Data Mine - Purdue University](https://datamine.purdue.edu/)**
-- :man_teacher: **CS Teaching Assistant @ [Purdue University](https://www.purdue.edu/)**
-- :computer: **Software Developer @ [Purdue VIP](https://www.purdue.edu/VIP/)**
-- :books: **CS Tutor @ [Horizons Student Support Services](https://www.purdue.edu/horizons/)**
+- :computer: **Software Development Research Assistant @ [AIM](https://ai4musicians.org/vip_info.html)**  
+  *Spring 2025 – Present*
+- :microscope: **Undergraduate Data Science Researcher @ [The Data Mine - Purdue University](https://datamine.purdue.edu/)**  
+  *Fall 2024 – Present*
+- :man_teacher: **CS Teaching Assistant @ [Purdue University](https://www.purdue.edu/)**  
+  *Fall 2024*
+- :computer: **Software Developer @ [Purdue VIP](https://www.purdue.edu/VIP/)**  
+  *Fall 2024*
+- :books: **CS Tutor @ [Horizons Student Support Services](https://www.purdue.edu/horizons/)**  
+  *Fall 2024 – Present*
+
 
 
 
