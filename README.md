@@ -17,7 +17,7 @@ I'm Ji Bing! I am a Computer Scienc Major at Purdue University. My major concent
 
 - **💻 Software Development Research Assistant** – [AIM](https://ai4musicians.org/vip_info.html) *(Spring 2025 – Present)*
 - **🔬 Undergraduate Data Science Researcher** – [The Data Mine, Purdue](https://datamine.purdue.edu/) *(Fall 2024 – Present)*
-- **🎓 CS Teaching Assistant** – [Purdue University](https://www.purdue.edu/) *(Fall 2024)*
+- **🎓 CS Teaching Assistant** – [Purdue University](https://www.purdue.edu/) *(Fall 2024 - Present)*
 - **💻 Software Developer** – [Purdue VIP](https://www.purdue.edu/VIP/) *(Fall 2024)*
 - **📚 CS Tutor** – [Horizons Student Support Services](https://www.purdue.edu/horizons/) *(Fall 2024 – Present)*
 
