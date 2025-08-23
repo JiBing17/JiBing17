@@ -14,11 +14,13 @@ const ji_bing = {
 
 ## 🏆 Experience
 
-- **💻 AI Music Research Assistant** – [AIM](https://ai4musicians.org/vip_info.html) *(Spring 2025 – Present)*
-- **🔬 Undergraduate Data Science Researcher** – [The Data Mine, Purdue](https://datamine.purdue.edu/) *(Fall 2024 – Present)*
-- **🎓 CS Teaching Assistant** – [Purdue University](https://www.purdue.edu/) *(Fall 2024 - Present)*
-- **💻 Software Developer** – [Purdue VIP](https://www.purdue.edu/VIP/) *(Fall 2024)*
-- **📚 CS Tutor** – [Horizons Student Support Services](https://www.purdue.edu/horizons/) *(Fall 2024 – Present)*
+- **💻 Music Software Development Research Assistant** – [AIM](https://ai4musicians.org/vip_info.html) *(Jan 2025 - August 2025)*
+- **🔬 Undergraduate Data Science Researcher** – [The Data Mine, Purdue](https://datamine.purdue.edu/) *(August 2024 - May 2025)*
+- **🎓 Systems Programming Teaching Assistant** – [Purdue Computer Science](https://www.cs.purdue.edu/) *(June 2025 - Present)*
+- **🎓 Developer Tools Teaching Assistant** – [Purdue Computer Science](https://www.cs.purdue.edu/) *(August 2024 - December 2024 , August 2024 - Present)*
+- **🎓 USB CS Help Room Tutor** – [Purdue Computer Science](https://www.cs.purdue.edu/) *(January 2025 - May 2025)*
+- **💻 Software Developer** – [Purdue VIP](https://www.purdue.edu/VIP/) *(August 2024 - December 2024)*
+- **📚 CS Tutor** – [Horizons Student Support Services](https://www.purdue.edu/horizons/) *(August 2024 - May 2025)*
 
 
 
