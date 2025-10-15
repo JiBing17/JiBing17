@@ -15,9 +15,9 @@ const ji_bing = {
 ## 🏆 Experience
 
 ## 💻 Research & Development
-- **Music Software Development Research Assistant** – [AIM Purdue](https://ai4musicians.org/vip_info.html) *(Jan 2025 – Aug 2025)*
+- **Software Developer** – [AIM Purdue](https://ai4musicians.org/vip_info.html) *(Jan 2025 – Aug 2025)*
 - **Undergraduate Data Science Researcher** – [The Data Mine, Purdue](https://datamine.purdue.edu/) *(Aug 2024 – May 2025)*
-- **Software Developer** – [Purdue VIP](https://www.purdue.edu/VIP/) *(Aug 2024 – Dec 2024)*
+- **Frontend Developer** – [Purdue VIP](https://www.purdue.edu/VIP/) *(Aug 2024 – Dec 2024)*
 
 ## 🎓 Teaching & Tutoring – [Purdue Computer Science](https://www.cs.purdue.edu/)
 - **Systems Programming Teaching Assistant** *(June 2025 – Present)*
